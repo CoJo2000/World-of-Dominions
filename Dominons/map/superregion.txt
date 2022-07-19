@@ -1,0 +1,232 @@
+aaaa_superregion = {
+	aadt_region
+	aabs_region
+	aadn_region
+	aaee_region
+	aadm_region
+}
+
+aaab_superregion = {
+	aabq_region
+	aaes_region
+	aadf_region
+	aacq_region
+	aaan_region
+	aacj_region
+	aadz_region
+	aaez_region
+}
+
+aaac_superregion = {
+	aabw_region
+	aabl_region
+}
+
+aaad_superregion = {
+	aaaf_region
+	aabd_region
+	aabh_region
+	aaac_region
+	aacb_region
+	aaef_region
+}
+
+aaae_superregion = {
+	aacn_region
+	aaej_region
+	aabj_region
+	aadk_region
+}
+
+aaaf_superregion = {
+	aabn_region
+	aaag_region
+	aaeo_region
+	aaai_region
+}
+
+aaag_superregion = {
+	aacd_region
+	aadq_region
+	aabp_region
+	aaaj_region
+}
+
+aaah_superregion = {
+	aaad_region
+	aacr_region
+	aadj_region
+}
+
+aaai_superregion = {
+	aaeu_region
+	aaax_region
+	aabk_region
+	aaeg_region
+	aaem_region
+	aabf_region
+	aael_region
+	aaah_region
+}
+
+aaaj_superregion = {
+	aada_region
+	aabu_region
+	aaeh_region
+	aaeb_region
+}
+
+aaak_superregion = {
+	aaew_region
+	aaae_region
+	aaat_region
+	aado_region
+	aabb_region
+}
+
+aaal_superregion = {
+	aaaz_region
+	aacs_region
+	aaaa_region
+	aaei_region
+	aaab_region
+	aacw_region
+}
+
+aaam_superregion = {
+	aaen_region
+	aaal_region
+	aadv_region
+	aacp_region
+}
+
+aaan_superregion = {
+	aabv_region
+	aabg_region
+	aabx_region
+	aadr_region
+	aacy_region
+	aaap_region
+	aadp_region
+}
+
+aaao_superregion = {
+	aaas_region
+	aabm_region
+	aaak_region
+	aaco_region
+	aads_region
+	aacl_region
+	aact_region
+	aaay_region
+}
+
+aaap_superregion = {
+	aafb_region
+	aadb_region
+	aabc_region
+	aadx_region
+	aadc_region
+	aacz_region
+	aaaq_region
+	aacf_region
+	aadh_region
+	aaeq_region
+}
+
+aaaq_superregion = {
+	aadw_region
+	aabi_region
+	aafd_region
+	aaaw_region
+	aack_region
+}
+
+aaar_superregion = {
+	aaby_region
+	aaam_region
+	aafa_region
+	aaca_region
+	aaar_region
+	aacv_region
+	aabe_region
+	aaav_region
+	aaer_region
+	aadi_region
+}
+
+aaas_superregion = {
+	aabz_region
+	aaev_region
+	aabr_region
+	aadg_region
+	aaet_region
+	aabo_region
+}
+
+aaat_superregion = {
+	aaao_region
+	aacc_region
+	aacu_region
+	aadl_region
+	aacg_region
+	aach_region
+}
+
+aaau_superregion = {
+	aace_region
+	aaec_region
+	aaex_region
+	aaba_region
+}
+
+aaav_superregion = {
+	aaci_region
+	aaep_region
+	aaea_region
+	aade_region
+}
+
+aaaw_superregion = {
+	aabt_region
+	aaed_region
+	aaek_region
+	aadd_region
+	aadu_region
+	aaey_region
+	aacx_region
+	aady_region
+	aaau_region
+	aacm_region
+}
+
+aaax_superregion = {
+	aafc_region
+}
+
+india_superregion = {
+}east_indies_superregion = {
+}oceania_superregion = {
+}china_superregion = {
+}europe_superregion = { #Western Europe
+}eastern_europe_superregion = {
+}tartary_superregion = {
+}far_east_superregion = {
+}africa_superregion = {
+}southern_africa_superregion = {
+}south_america_superregion = { # amazonia
+}andes_superregion = {
+}north_america_superregion = {
+}central_america_superregion = {
+}near_east_superregion = {
+}persia_superregion = {
+}new_world_superregion = {
+}west_american_sea_superregion = {
+}east_american_sea_superregion = {
+}north_european_sea_superregion = {
+}south_european_sea_superregion = {
+}west_african_sea_superregion = {
+}east_african_sea_superregion = {
+}indian_pacific_sea_superregion = {
+}north_pacific_sea_superregion = {
+}

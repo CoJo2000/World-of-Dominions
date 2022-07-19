@@ -1,0 +1,2090 @@
+aaaa_region = {
+    areas = {
+      aami_area
+      aajd_area
+      abrl_area
+      abca_area
+      abju_area
+      aaoo_area
+      aagm_area
+      aagx_area
+      abns_area
+      aarg_area
+      aazw_area
+      abnd_area
+      abpc_area
+  }
+}
+
+aaab_region = {
+    areas = {
+      aang_area
+      abtd_area
+      aaro_area
+      abdq_area
+      abpg_area
+      abup_area
+      abre_area
+      abbv_area
+      aajv_area
+  }
+}
+
+aaac_region = {
+    areas = {
+      abhf_area
+      aadc_area
+      aajo_area
+      abqr_area
+      abqm_area
+      aaad_area
+      absj_area
+      aboj_area
+      aacu_area
+  }
+}
+
+aaad_region = {
+    areas = {
+      aafy_area
+      abor_area
+      abuc_area
+      ablo_area
+      abik_area
+  }
+}
+
+aaae_region = {
+    areas = {
+      abis_area
+      aabt_area
+      abbq_area
+      abpl_area
+      aawz_area
+      aahy_area
+      aaim_area
+      abjq_area
+      aanl_area
+      abdi_area
+      aack_area
+      aaem_area
+      abnz_area
+  }
+}
+
+aaaf_region = {
+    areas = {
+      abei_area
+      aadb_area
+      abgm_area
+      aakf_area
+      aaow_area
+      aayb_area
+      aamf_area
+      abtr_area
+      abog_area
+      abgq_area
+      abiw_area
+      abto_area
+      aasv_area
+  }
+}
+
+aaag_region = {
+    areas = {
+      aaev_area
+      abdj_area
+      abea_area
+      aast_area
+      aayp_area
+      aawv_area
+      aamw_area
+      aaux_area
+      abkv_area
+      abby_area
+      aaww_area
+      aahw_area
+  }
+}
+
+aaah_region = {
+    areas = {
+      aaum_area
+      aajw_area
+      abgw_area
+      aarp_area
+      abty_area
+      abuv_area
+      abvk_area
+      abtn_area
+      abgi_area
+      aaot_area
+      aaam_area
+      abni_area
+  }
+}
+
+aaai_region = {
+    areas = {
+      aasi_area
+      abgd_area
+      aaxb_area
+      absb_area
+      abex_area
+      aaxw_area
+      aamp_area
+      aayu_area
+  }
+}
+
+aaaj_region = {
+    areas = {
+      abux_area
+      abtq_area
+      abdw_area
+      aapj_area
+      abmd_area
+      abcw_area
+      aaxy_area
+      abhw_area
+      aama_area
+      aayt_area
+  }
+}
+
+aaak_region = {
+    areas = {
+      aaat_area
+      aatn_area
+      abbo_area
+      abqh_area
+      aaar_area
+      aaph_area
+      aanj_area
+      aaml_area
+      aatf_area
+      aaqf_area
+      abte_area
+  }
+}
+
+aaal_region = {
+    areas = {
+      aawg_area
+      abet_area
+      aakz_area
+      aaca_area
+      aacb_area
+      abdh_area
+      abfj_area
+  }
+}
+
+aaam_region = {
+    areas = {
+      abss_area
+      aaza_area
+      aaei_area
+      abdp_area
+      aajr_area
+      aaqa_area
+      aahd_area
+      aaym_area
+      abem_area
+      aayj_area
+      aarj_area
+  }
+}
+
+aaan_region = {
+    areas = {
+      aamj_area
+      aady_area
+      abqf_area
+      aazb_area
+      abbu_area
+      abdf_area
+      aaek_area
+      abra_area
+  }
+}
+
+aaao_region = {
+    areas = {
+      aabz_area
+      aasn_area
+      aaed_area
+      abge_area
+      aasx_area
+      aavw_area
+      abmb_area
+      abuz_area
+      abff_area
+  }
+}
+
+aaap_region = {
+    areas = {
+      aatp_area
+      abbh_area
+      aavb_area
+      aalw_area
+      absa_area
+      aash_area
+      abky_area
+      abfd_area
+  }
+}
+
+aaaq_region = {
+    areas = {
+      aams_area
+      abba_area
+      abmu_area
+      abku_area
+      abfq_area
+      abuq_area
+      aact_area
+      abfh_area
+      abeq_area
+  }
+}
+
+aaar_region = {
+    areas = {
+      abqx_area
+      abqd_area
+      abct_area
+      abdm_area
+      aazr_area
+      abnf_area
+      aaoe_area
+      aaxz_area
+  }
+}
+
+aaas_region = {
+    areas = {
+      aaaj_area
+      aado_area
+      aagr_area
+      aath_area
+      abpp_area
+      aabo_area
+      aahp_area
+      aaov_area
+      abjn_area
+      aaht_area
+  }
+}
+
+aaat_region = {
+    areas = {
+      abjw_area
+      aajf_area
+      abrj_area
+      abpa_area
+      abnw_area
+      aazh_area
+      abtu_area
+      aaqe_area
+      abus_area
+      aadq_area
+  }
+}
+
+aaau_region = {
+    areas = {
+      aadl_area
+      abbw_area
+      aavn_area
+      aayo_area
+      aagn_area
+      abhs_area
+      aanq_area
+      aazk_area
+  }
+}
+
+aaav_region = {
+    areas = {
+      abnm_area
+      aaxi_area
+      abdv_area
+      aasz_area
+      aajj_area
+  }
+}
+
+aaaw_region = {
+    areas = {
+      aadf_area
+      aazj_area
+      aane_area
+      absl_area
+      abms_area
+      aamo_area
+      abjr_area
+      abal_area
+      aawj_area
+  }
+}
+
+aaax_region = {
+    areas = {
+      aavt_area
+      aalu_area
+      aamm_area
+      abri_area
+      aatt_area
+      abgu_area
+      abug_area
+  }
+}
+
+aaay_region = {
+    areas = {
+      aaxv_area
+      aant_area
+      abli_area
+      abmw_area
+      abld_area
+      aauk_area
+      aavy_area
+      abuu_area
+  }
+}
+
+aaaz_region = {
+    areas = {
+      aate_area
+      aagt_area
+      aalc_area
+      aasq_area
+      abhv_area
+      abpo_area
+      abjf_area
+      aafw_area
+      abpw_area
+      abeg_area
+      absd_area
+      abhj_area
+  }
+}
+
+aaba_region = {
+    areas = {
+      aabu_area
+      ablk_area
+      aayc_area
+      abao_area
+      aayq_area
+      aajs_area
+      aaoz_area
+      aays_area
+      aaiz_area
+      abts_area
+      aatm_area
+      aade_area
+      aazo_area
+      ablf_area
+  }
+}
+
+aabb_region = {
+    areas = {
+      aahu_area
+      aaoa_area
+      aauu_area
+      aawr_area
+      absh_area
+      abqs_area
+      abow_area
+      aasu_area
+  }
+}
+
+aabc_region = {
+    areas = {
+      aatc_area
+      aaiw_area
+      abgp_area
+      aahh_area
+      aamd_area
+      aayd_area
+      aavr_area
+      aauh_area
+      aazi_area
+  }
+}
+
+aabd_region = {
+    areas = {
+      abje_area
+      aadk_area
+      abpr_area
+      aagk_area
+      aavg_area
+      aacn_area
+      aatq_area
+      aany_area
+      aare_area
+      aaid_area
+      aatw_area
+      abpt_area
+      aajn_area
+      aaqi_area
+      abhr_area
+  }
+}
+
+aabe_region = {
+    areas = {
+      abkm_area
+      abkj_area
+      able_area
+      aakc_area
+      aaku_area
+      aaxa_area
+      aboh_area
+      abqu_area
+      abab_area
+      aaqb_area
+      abtl_area
+  }
+}
+
+aabf_region = {
+    areas = {
+      aaav_area
+      abnx_area
+      aanb_area
+      aawl_area
+      aach_area
+      absv_area
+      aahm_area
+  }
+}
+
+aabg_region = {
+    areas = {
+      aalk_area
+      aann_area
+      aaxc_area
+      aabv_area
+  }
+}
+
+aabh_region = {
+    areas = {
+      abqq_area
+      abot_area
+      aalg_area
+      abmp_area
+      aajy_area
+      aalh_area
+      aase_area
+      abfe_area
+      aayi_area
+      aahs_area
+  }
+}
+
+aabi_region = {
+    areas = {
+      abqt_area
+      abga_area
+      abii_area
+      aazu_area
+      aaga_area
+      abcy_area
+      abpq_area
+  }
+}
+
+aabj_region = {
+    areas = {
+      aavj_area
+      aape_area
+      ablr_area
+      abmg_area
+      aada_area
+      aauq_area
+      aafg_area
+      aafi_area
+  }
+}
+
+aabk_region = {
+    areas = {
+      abeo_area
+      abgg_area
+      abnp_area
+      aaol_area
+      abmv_area
+      aaze_area
+      abke_area
+      aarc_area
+  }
+}
+
+aabl_region = {
+    areas = {
+      aamb_area
+      aafq_area
+      aapb_area
+      aanx_area
+      aapt_area
+      abrp_area
+      aazl_area
+      abos_area
+      aazn_area
+      aaou_area
+      aahg_area
+      abcl_area
+      abmq_area
+      abho_area
+      abqo_area
+      aamr_area
+  }
+}
+
+aabm_region = {
+    areas = {
+      absz_area
+      aahl_area
+      abse_area
+      abro_area
+      aaye_area
+      aafh_area
+      aaxk_area
+      abav_area
+      abvi_area
+      abrk_area
+  }
+}
+
+aabn_region = {
+    areas = {
+      abbe_area
+      aaco_area
+      abdr_area
+      aatd_area
+      aatk_area
+      aavl_area
+      abew_area
+      abiq_area
+      absi_area
+      aayz_area
+      aaub_area
+  }
+}
+
+aabo_region = {
+    areas = {
+      aahr_area
+      aabr_area
+      abrs_area
+      aaug_area
+  }
+}
+
+aabp_region = {
+    areas = {
+      abjl_area
+      abfn_area
+      abbb_area
+      aaie_area
+      abrv_area
+      aanu_area
+      abrw_area
+  }
+}
+
+aabq_region = {
+    areas = {
+      abrt_area
+      aalr_area
+      abjb_area
+      aani_area
+      aapw_area
+      abgy_area
+      abdl_area
+      abil_area
+      abai_area
+      abrn_area
+      aaac_area
+      aakm_area
+  }
+}
+
+aabr_region = {
+    areas = {
+      aalb_area
+      aawk_area
+      abtb_area
+      aaig_area
+      abgb_area
+      abez_area
+      abnt_area
+  }
+}
+
+aabs_region = {
+    areas = {
+      aaiv_area
+      aadh_area
+      abud_area
+      abru_area
+      aasj_area
+      abed_area
+      aaio_area
+      aavq_area
+      aabp_area
+      aaji_area
+      aaxu_area
+  }
+}
+
+aabt_region = {
+    areas = {
+      aadr_area
+      abng_area
+      abrx_area
+      abey_area
+      ablw_area
+      abrf_area
+      abiu_area
+      aaxs_area
+      abhp_area
+  }
+}
+
+aabu_region = {
+    areas = {
+      abjz_area
+      abig_area
+      abqa_area
+      aavs_area
+      abrz_area
+      abpb_area
+      abfw_area
+      aagd_area
+      abnq_area
+      abox_area
+      absy_area
+  }
+}
+
+aabv_region = {
+    areas = {
+      abgr_area
+      abtj_area
+      aaox_area
+      aati_area
+      aatb_area
+      aboy_area
+  }
+}
+
+aabw_region = {
+    areas = {
+      aacv_area
+      abjx_area
+      abpv_area
+      abip_area
+      aaly_area
+      aabb_area
+      aags_area
+      aauz_area
+      aaff_area
+      aadn_area
+  }
+}
+
+aabx_region = {
+    areas = {
+      aasr_area
+      abmr_area
+      abbn_area
+      aajq_area
+      aalj_area
+      aamx_area
+  }
+}
+
+aaby_region = {
+    areas = {
+      aawt_area
+      aaon_area
+      aaua_area
+      aaja_area
+      aahb_area
+      abdn_area
+      abov_area
+      aagw_area
+      abfx_area
+  }
+}
+
+aabz_region = {
+    areas = {
+      aaom_area
+      aban_area
+      aarn_area
+      aamq_area
+      aanc_area
+      aagc_area
+      aatj_area
+      abvd_area
+      abdo_area
+  }
+}
+
+aaca_region = {
+    areas = {
+      aaty_area
+      aahz_area
+      abdt_area
+      absk_area
+      abij_area
+      aawq_area
+      abrq_area
+      aaog_area
+      aafe_area
+  }
+}
+
+aacb_region = {
+    areas = {
+      aapa_area
+      aadi_area
+      aaky_area
+      abqv_area
+      abmn_area
+      aawu_area
+      aazg_area
+      abqc_area
+      abhb_area
+      aaho_area
+      aaew_area
+  }
+}
+
+aacc_region = {
+    areas = {
+      aadx_area
+      aacj_area
+      aais_area
+      aahq_area
+      abaf_area
+      abrm_area
+      abjs_area
+      aauf_area
+  }
+}
+
+aacd_region = {
+    areas = {
+      aace_area
+      aaop_area
+      aals_area
+      abej_area
+      aake_area
+      abfb_area
+      abbd_area
+  }
+}
+
+aace_region = {
+    areas = {
+      aaau_area
+      aaje_area
+      aaif_area
+      aaik_area
+      abbc_area
+      aaez_area
+      abgl_area
+      ablc_area
+      abnv_area
+      abjp_area
+      aavd_area
+      aadw_area
+      abim_area
+  }
+}
+
+aacf_region = {
+    areas = {
+      abqy_area
+      aaok_area
+      aadj_area
+      aavu_area
+      abhg_area
+      abry_area
+      aaju_area
+      abjk_area
+      aart_area
+  }
+}
+
+aacg_region = {
+    areas = {
+      aaoj_area
+      aavh_area
+      aavi_area
+      abnr_area
+      abeu_area
+      ably_area
+      abuj_area
+  }
+}
+
+aach_region = {
+    areas = {
+      aaae_area
+      aapz_area
+      aand_area
+      abbg_area
+      aabe_area
+      abrr_area
+      abfm_area
+      abrd_area
+  }
+}
+
+aaci_region = {
+    areas = {
+      aapm_area
+      aadt_area
+      aaeq_area
+      aafl_area
+      aapp_area
+      abve_area
+      abaq_area
+      aazz_area
+      abvh_area
+      aapv_area
+  }
+}
+
+aacj_region = {
+    areas = {
+      abaw_area
+      ablh_area
+      aaee_area
+      abfz_area
+      abst_area
+      aaip_area
+      abhd_area
+      abtc_area
+      abfk_area
+  }
+}
+
+aack_region = {
+    areas = {
+      abuh_area
+      aboa_area
+      aatr_area
+      ablx_area
+      aaoq_area
+      absc_area
+      aaeo_area
+      aagh_area
+      abhi_area
+      aacm_area
+  }
+}
+
+aacl_region = {
+    areas = {
+      abch_area
+      abeh_area
+      abau_area
+      absu_area
+      abpy_area
+      abbj_area
+      abmt_area
+      abll_area
+      aaod_area
+      abbz_area
+      abkq_area
+  }
+}
+
+aacm_region = {
+    areas = {
+      abev_area
+      aacr_area
+      absw_area
+      abne_area
+      aafd_area
+      aaic_area
+      aald_area
+      aajc_area
+  }
+}
+
+aacn_region = {
+    areas = {
+      aazx_area
+      aajz_area
+      aajb_area
+      aapo_area
+      abtx_area
+      aawf_area
+      aaaz_area
+      aakx_area
+      abrc_area
+      abuw_area
+      aael_area
+      aauc_area
+      aafu_area
+  }
+}
+
+aaco_region = {
+    areas = {
+      abfc_area
+      aacx_area
+      aapc_area
+      aayn_area
+      abcx_area
+      aats_area
+      abaz_area
+      aaws_area
+      abnn_area
+  }
+}
+
+aacp_region = {
+    areas = {
+      abun_area
+      aagl_area
+      aamc_area
+      aazs_area
+      abeb_area
+      abit_area
+      aavm_area
+      aamt_area
+  }
+}
+
+aacq_region = {
+    areas = {
+      aakp_area
+      abhe_area
+      absx_area
+      abdc_area
+      abka_area
+      aber_area
+      aaqo_area
+      aakv_area
+      abck_area
+      aaax_area
+  }
+}
+
+aacr_region = {
+    areas = {
+      abpe_area
+      aarw_area
+      aass_area
+      aasf_area
+      ablm_area
+      aavo_area
+      aakg_area
+      abdx_area
+      aaxo_area
+  }
+}
+
+aacs_region = {
+    areas = {
+      aaoi_area
+      aayw_area
+      aard_area
+      abbk_area
+      abfi_area
+      aalv_area
+      abjh_area
+      abhc_area
+      abmm_area
+      abaj_area
+      abqb_area
+  }
+}
+
+aact_region = {
+    areas = {
+      aaui_area
+      abrg_area
+      abkd_area
+      abbl_area
+      abhn_area
+      aaaw_area
+      abqw_area
+      aabd_area
+      aaen_area
+      abfa_area
+  }
+}
+
+aacu_region = {
+    areas = {
+      abfp_area
+      aagq_area
+      aawp_area
+      abhk_area
+      aaso_area
+      aayg_area
+      aalo_area
+      abiy_area
+      aalq_area
+  }
+}
+
+aacv_region = {
+    areas = {
+      aahv_area
+      abfg_area
+      abqj_area
+      abmx_area
+      aapl_area
+      abhq_area
+      abqp_area
+      ablz_area
+  }
+}
+
+aacw_region = {
+    areas = {
+      aaor_area
+      aaqx_area
+      aabx_area
+      aanr_area
+      aata_area
+      abin_area
+      abci_area
+      abta_area
+      aabh_area
+      aaxp_area
+      aaij_area
+  }
+}
+
+aacx_region = {
+    areas = {
+      aacs_area
+      aaii_area
+      aaqq_area
+      abqn_area
+      aasg_area
+      aaec_area
+      aauy_area
+      ablt_area
+  }
+}
+
+aacy_region = {
+    areas = {
+      aaql_area
+      aanm_area
+      abrh_area
+      aaxx_area
+      abhu_area
+      aaef_area
+  }
+}
+
+aacz_region = {
+    areas = {
+      abdb_area
+      abbr_area
+      abpx_area
+      abla_area
+      aauw_area
+      aajh_area
+      aavp_area
+      aafm_area
+  }
+}
+
+aada_region = {
+    areas = {
+      aafa_area
+      aage_area
+      aajl_area
+      abnh_area
+      aawh_area
+      aalz_area
+      abcs_area
+      aajp_area
+      aasl_area
+      abee_area
+  }
+}
+
+aadb_region = {
+    areas = {
+      aabq_area
+      aaeh_area
+      aait_area
+      abml_area
+      absm_area
+      aahf_area
+      abek_area
+  }
+}
+
+aadc_region = {
+    areas = {
+      aajk_area
+      abhy_area
+      abfy_area
+      aacp_area
+      aayl_area
+      abcd_area
+      abas_area
+      aadp_area
+      abvf_area
+      abbs_area
+  }
+}
+
+aadd_region = {
+    areas = {
+      aaiq_area
+      aail_area
+      aatl_area
+      abkg_area
+      aave_area
+      abti_area
+      abfl_area
+      aaer_area
+      aalf_area
+  }
+}
+
+aade_region = {
+    areas = {
+      aakn_area
+      aarb_area
+      aaaq_area
+      aacz_area
+      abix_area
+      abpj_area
+      abah_area
+      aagb_area
+      aapn_area
+  }
+}
+
+aadf_region = {
+    areas = {
+      abpu_area
+      abef_area
+      aamk_area
+      aapq_area
+      abki_area
+      aago_area
+      aauv_area
+      aatz_area
+      aafx_area
+  }
+}
+
+aadg_region = {
+    areas = {
+      abax_area
+      abhl_area
+      abgt_area
+      aaej_area
+      abfu_area
+      abmh_area
+      aacf_area
+      abny_area
+      abob_area
+      abqg_area
+  }
+}
+
+aadh_region = {
+    areas = {
+      aalx_area
+      aaft_area
+      aafk_area
+      abhz_area
+      aano_area
+      abol_area
+      aars_area
+  }
+}
+
+aadi_region = {
+    areas = {
+      abic_area
+      aapy_area
+      aacw_area
+      abth_area
+      abel_area
+      aair_area
+      aaqc_area
+      abcr_area
+      abtk_area
+  }
+}
+
+aadj_region = {
+    areas = {
+      abva_area
+      abdy_area
+      abui_area
+      aaih_area
+      aboq_area
+      abkp_area
+      abtm_area
+      aasw_area
+  }
+}
+
+aadk_region = {
+    areas = {
+      aanp_area
+      abna_area
+      aaib_area
+      aamv_area
+      aadu_area
+      aapu_area
+      abcp_area
+      aana_area
+      aaai_area
+      abtg_area
+      aaqn_area
+  }
+}
+
+aadl_region = {
+    areas = {
+      aaby_area
+      aboi_area
+      aaud_area
+      aawi_area
+      aaps_area
+      aahk_area
+      abvb_area
+      abps_area
+  }
+}
+
+aadm_region = {
+    areas = {
+      abtz_area
+      aaoc_area
+      aayk_area
+      aagy_area
+      aala_area
+      abpm_area
+      ablb_area
+      abie_area
+  }
+}
+
+aadn_region = {
+    areas = {
+      abls_area
+      aasc_area
+      aaet_area
+      aaof_area
+  }
+}
+
+aado_region = {
+    areas = {
+      aajx_area
+      aafr_area
+      aaap_area
+      abnb_area
+      aaxm_area
+      aamu_area
+      abif_area
+      abjj_area
+      aaqy_area
+      aavx_area
+  }
+}
+
+aadp_region = {
+    areas = {
+      abdk_area
+      abpk_area
+      abtp_area
+      aarz_area
+      abda_area
+  }
+}
+
+aadq_region = {
+    areas = {
+      aanw_area
+      abid_area
+      abce_area
+      abko_area
+      aaqv_area
+      abpd_area
+      abuo_area
+      ablg_area
+      abgz_area
+  }
+}
+
+aadr_region = {
+    areas = {
+      aary_area
+      aagj_area
+      ablv_area
+      abnu_area
+      abio_area
+      abbt_area
+  }
+}
+
+aads_region = {
+    areas = {
+      aaia_area
+      aboe_area
+      aapi_area
+      abtv_area
+      aask_area
+      aavf_area
+  }
+}
+
+aadt_region = {
+    areas = {
+      aacy_area
+      abae_area
+      abvj_area
+      aaex_area
+      aakr_area
+      aakw_area
+      aasp_area
+      aaes_area
+      abmo_area
+      abrb_area
+      aaba_area
+      abop_area
+      aanz_area
+  }
+}
+
+aadu_region = {
+    areas = {
+      aayr_area
+      abkb_area
+      aaey_area
+      abon_area
+      abur_area
+      aafs_area
+      aaki_area
+      aacq_area
+  }
+}
+
+aadv_region = {
+    areas = {
+      aaxg_area
+      aaha_area
+      aaak_area
+      aaqg_area
+      abkc_area
+      absr_area
+      aaxd_area
+      abcz_area
+  }
+}
+
+aadw_region = {
+    areas = {
+      aaas_area
+      aabi_area
+      abiv_area
+      aadg_area
+      abar_area
+      abcv_area
+      aaos_area
+      aawx_area
+      aayf_area
+      abod_area
+      aaqz_area
+      abso_area
+      aaag_area
+  }
+}
+
+aadx_region = {
+    areas = {
+      aaea_area
+      abep_area
+      abco_area
+      aayy_area
+      abmc_area
+      abha_area
+      aaks_area
+      abmi_area
+      abma_area
+      aadm_area
+  }
+}
+
+aady_region = {
+    areas = {
+      aarv_area
+      aaoh_area
+      abkx_area
+      abcc_area
+      abbf_area
+      absf_area
+      abkk_area
+      aacd_area
+      aaeg_area
+      aafb_area
+      abum_area
+  }
+}
+
+aadz_region = {
+    areas = {
+      aavk_area
+      aawo_area
+      aayx_area
+      abgx_area
+      abad_area
+      abjm_area
+      abof_area
+      aawe_area
+  }
+}
+
+aaea_region = {
+    areas = {
+      aaxf_area
+      aaqj_area
+      abnl_area
+      abap_area
+      abgc_area
+      aagz_area
+      abcu_area
+      abag_area
+  }
+}
+
+aaeb_region = {
+    areas = {
+      abgk_area
+      abde_area
+      aakj_area
+      aaqu_area
+      aazd_area
+      aatu_area
+      aahc_area
+      aaab_area
+      aamn_area
+      abmj_area
+      abnk_area
+      absg_area
+      abir_area
+      aafc_area
+      abub_area
+      abjd_area
+  }
+}
+
+aaec_region = {
+    areas = {
+      aayv_area
+      aacc_area
+      aawy_area
+      abgh_area
+      abht_area
+      abqe_area
+      aaul_area
+      abkf_area
+      aazp_area
+  }
+}
+
+aaed_region = {
+    areas = {
+      aabc_area
+      abkn_area
+      aaeb_area
+      aajm_area
+      aapx_area
+      aakq_area
+      aaqm_area
+      aazf_area
+      abcn_area
+      abkw_area
+  }
+}
+
+aaee_region = {
+    areas = {
+      aaal_area
+      aaya_area
+      abja_area
+      aakb_area
+      aaqh_area
+      aawc_area
+      abue_area
+      abfv_area
+      abgf_area
+      aakt_area
+  }
+}
+
+aaef_region = {
+    areas = {
+      aaay_area
+      aabw_area
+      aaiu_area
+      aahn_area
+      aafo_area
+      abds_area
+      aazc_area
+      aawd_area
+      abjg_area
+      aapr_area
+      abcj_area
+      aasy_area
+      abuk_area
+      aben_area
+      abtf_area
+      aans_area
+  }
+}
+
+aaeg_region = {
+    areas = {
+      aahi_area
+      aato_area
+      absq_area
+      aaxh_area
+      abmy_area
+      aamy_area
+      aajg_area
+      aaqp_area
+  }
+}
+
+aaeh_region = {
+    areas = {
+      aagp_area
+      abac_area
+      aapk_area
+      aaxn_area
+      abvc_area
+  }
+}
+
+aaei_region = {
+    areas = {
+      ablu_area
+      abgs_area
+      abjc_area
+      aakl_area
+      aasb_area
+      abat_area
+      abcq_area
+      abbm_area
+      abok_area
+      aabn_area
+      absn_area
+      abtw_area
+      abnc_area
+  }
+}
+
+aaej_region = {
+    areas = {
+      aaep_area
+      abiz_area
+      abih_area
+      abkh_area
+      aaqr_area
+      aaix_area
+      abmk_area
+      aaiy_area
+      aabf_area
+      aaao_area
+  }
+}
+
+aaek_region = {
+    areas = {
+      abln_area
+      aagi_area
+      aaan_area
+      aaqt_area
+      aaxt_area
+      aaeu_area
+      abqz_area
+      aahx_area
+      aauo_area
+      abut_area
+  }
+}
+
+aael_region = {
+    areas = {
+      aacg_area
+      aafz_area
+      abqk_area
+      aaun_area
+      aarr_area
+      aaka_area
+      aaxr_area
+      abib_area
+  }
+}
+
+aaem_region = {
+    areas = {
+      aaaf_area
+      aabs_area
+      aame_area
+      aavv_area
+      abhm_area
+      abay_area
+      aagf_area
+      abqi_area
+      abjv_area
+      aboo_area
+      aboz_area
+      abks_area
+      abpi_area
+  }
+}
+
+aaen_region = {
+    areas = {
+      aaru_area
+      aaqw_area
+      aamh_area
+      abes_area
+      abdd_area
+      aacl_area
+      abkl_area
+      aavz_area
+      aafj_area
+      abkz_area
+      abfr_area
+  }
+}
+
+aaeo_region = {
+    areas = {
+      aaob_area
+      abnj_area
+      abgo_area
+      aahj_area
+      abkt_area
+      abji_area
+      aaue_area
+      abuf_area
+      abjy_area
+      aatx_area
+  }
+}
+
+aaep_region = {
+    areas = {
+      abou_area
+      aarx_area
+      abcm_area
+      abmf_area
+      aanf_area
+      abpz_area
+  }
+}
+
+aaeq_region = {
+    areas = {
+      abdu_area
+      abno_area
+      abkr_area
+      abia_area
+      aawb_area
+      abhx_area
+      aaqd_area
+      abuy_area
+      aasd_area
+  }
+}
+
+aaer_region = {
+    areas = {
+      abpn_area
+      aads_area
+      aafn_area
+      aalp_area
+      abaa_area
+      aazy_area
+      abom_area
+      aayh_area
+      aaus_area
+      aale_area
+  }
+}
+
+aaes_region = {
+    areas = {
+      aabk_area
+      aarf_area
+      aabm_area
+      aatv_area
+      aazm_area
+      abua_area
+      aapf_area
+      aadv_area
+      aawa_area
+      aaxq_area
+  }
+}
+
+aaet_region = {
+    areas = {
+      aaoy_area
+      aapg_area
+      aazt_area
+      abcf_area
+      aamz_area
+      aarh_area
+  }
+}
+
+aaeu_region = {
+    areas = {
+      aali_area
+      aadd_area
+      abdg_area
+      abpf_area
+      aadz_area
+      abft_area
+      aajt_area
+      abgj_area
+      aara_area
+  }
+}
+
+aaev_region = {
+    areas = {
+      aaci_area
+      aall_area
+      abcb_area
+      aaqk_area
+      aaut_area
+      aakh_area
+      ablp_area
+      aasa_area
+  }
+}
+
+aaew_region = {
+    areas = {
+      abgn_area
+      abec_area
+      aarl_area
+      aalt_area
+      abql_area
+      aawm_area
+      abjt_area
+      aalm_area
+      abhh_area
+      aaur_area
+      abbx_area
+      aaxl_area
+  }
+}
+
+aaex_region = {
+    areas = {
+      abmz_area
+      aain_area
+      aank_area
+      aabj_area
+      abak_area
+      aaaa_area
+      aazv_area
+      aboc_area
+      abtt_area
+      aasm_area
+      abvg_area
+  }
+}
+
+aaey_region = {
+    areas = {
+      aagv_area
+      aanv_area
+      aafv_area
+      abfs_area
+      aafp_area
+      aabl_area
+  }
+}
+
+aaez_region = {
+    areas = {
+      aaxe_area
+      aanh_area
+      abdz_area
+      abcg_area
+      aakk_area
+      aatg_area
+  }
+}
+
+aafa_region = {
+    areas = {
+      aagu_area
+      aark_area
+      abam_area
+      aava_area
+      aaup_area
+      absp_area
+      abbp_area
+      aarq_area
+      aakd_area
+      aawn_area
+      aako_area
+      aaln_area
+  }
+}
+
+aafb_region = {
+    areas = {
+      aarm_area
+      aaah_area
+      aamg_area
+      abbi_area
+      aapd_area
+      aazq_area
+      aauj_area
+      aabg_area
+      abfo_area
+      abgv_area
+  }
+}
+
+aafc_region = {
+    areas = {
+      abvl_area
+  }
+}
+
+aafd_region = {
+    areas = {
+      aagg_area
+      aavc_area
+      aaxj_area
+      ablj_area
+      abjo_area
+      abph_area
+      abul_area
+      aahe_area
+      aaqs_area
+      ablq_area
+      abme_area
+      aari_area
+  }
+}
+
+random_new_world_region = {
+}
+france_region = {
+}
+scandinavia_region = {
+}
+low_countries_region = {
+}
+italy_region = {
+}
+north_german_region = {
+}
+south_german_region = {
+}
+russia_region = {
+}
+ural_region = {
+}
+iberia_region = {
+}
+british_isles_region = {
+}
+baltic_region = {
+}
+poland_region = {
+}
+ruthenia_region = {
+}
+crimea_region = {
+}
+balkan_region = {
+}
+carpathia_region = {
+}
+egypt_region = {
+}
+maghreb_region = {
+}
+mashriq_region = {
+}
+anatolia_region = {
+}
+persia_region = {
+}
+khorasan_region = {
+}
+caucasia_region = {
+}
+arabia_region = {
+}
+niger_region = {
+}
+guinea_region = {
+}
+sahel_region = {
+}
+horn_of_africa_region = {
+}
+east_africa_region = {
+}
+central_africa_region = {
+}
+kongo_region = {
+}
+central_asia_region = {
+}
+south_africa_region = {
+}
+west_siberia_region = {
+}
+east_siberia_region = {
+}
+mongolia_region = {
+}
+manchuria_region = {
+}
+korea_region = {
+}
+tibet_region = {
+}
+hindusthan_region = {
+}
+bengal_region = {
+}
+west_india_region = {
+}
+deccan_region = {
+}
+coromandel_region = {
+}
+burma_region = {
+}
+japan_region = {
+}
+australia_region = {
+}
+south_china_region = {
+}
+xinan_region = {
+}
+north_china_region = {
+}
+brazil_region = {
+}
+la_plata_region = {
+}
+colombia_region = {
+}
+peru_region = {
+}
+upper_peru_region = {
+}
+malaya_region = {	#Western Indonesia Malaya.
+}
+moluccas_region = {
+}
+indonesia_region = { #Eastern Indonesian/Malayan Islands.
+}
+oceanea_region = {
+}
+indo_china_region = {
+}
+canada_region = {
+}
+great_lakes_region = {
+}
+northeast_america_region = {
+}
+mississippi_region = {
+}
+great_plains_region = {
+}
+california_region = {
+}
+cascadia_region = {
+}
+hudson_bay_region = {
+}
+mexico_region = {
+}
+rio_grande_region = {
+}
+central_america_region = {
+}
+carribeans_region = {
+}
+baltic_sea_region = {
+}
+north_atlantic_region = {
+}
+american_east_coast_region = {
+}
+mediterrenean_region = {
+}
+caribbean_sea_region = {
+}
+west_african_sea_region = {
+}
+west_indian_ocean_region = {
+}
+arabian_sea_region = {
+}
+east_indian_ocean_region = {
+}
+south_indian_ocean_region = {
+}
+south_china_sea_region = {
+}
+east_china_sea_region = {
+}
+north_west_pacific_region = {
+}
+south_west_pacific_region = {
+}
+south_east_pacific_region = {
+}
+north_east_pacific_region = {
+}
+pacific_south_america_region = {
+}
+atlantic_south_america_region = {
+}
+south_atlantic_region = {
+}
+southeast_america_region = {
+}
