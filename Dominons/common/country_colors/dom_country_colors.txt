@@ -1,0 +1,788 @@
+# Country unit colors.
+
+# example_tag_template = {
+    # color1= { 205 32 26  } #60% of character
+    # color2= { 255 255 255  } #30% of character
+    # color3= { 70 50 40  } #Up to 10% -> try map color here
+# }
+
+# Eldahum
+A01 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Caelora
+A02 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Janora
+A03 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Aynor
+A04 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Fallholt
+A05 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Lunaris
+A06 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ariqora
+A07 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Penrith
+A08 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Waeldestone
+A09 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Arcton
+A10 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Lerwick
+A11 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Wakefield
+A12 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Dalhurst
+A13 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Aethelney
+A14 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Shadow's Gauntlet
+A15 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Night Void
+A16 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Abyss' Tomb
+A17 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Hell's Children
+A18 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Blood's Gift
+A19 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Black Hunger
+A20 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Immortal Phantom
+A21 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Fanged Desire
+A22 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Wicked Fligh
+A23 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Thvalin
+A24 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ollvalean
+A25 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nelfa
+A26 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ghoul's Omen
+A27 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Stonehand
+A28 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Mountainkiller
+A29 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Skytwister
+A30 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Gerboldir
+A31 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Thin Darul
+A32 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Isle of Der
+A33 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nanus
+A34 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Baenrul
+A35 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Dawnscaller
+A36 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Hir Maldir
+A37 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Den Farum
+A38 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nur Taruhr
+A39 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kerwir
+A40 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Vom
+A41 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Dugdar
+A42 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Voggrin
+A43 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Megrin
+A44 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Thorndoral
+A45 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nal Bir
+A46 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Bhemkihm
+A47 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Bhendar
+A48 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Varn
+A49 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Norngan
+A50 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Lodar
+A51 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Darom
+A52 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Stormleader
+A53 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Mohbalia
+A54 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Brasder
+A55 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Holbeck
+A56 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Sutton
+A57 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Rockheart
+A58 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Highstriker
+A59 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Flinteye
+A60 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Zor
+A61 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Stren
+A62 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Paither
+A63 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Xinas
+A64 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Seehnin
+A65 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Orde
+A66 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Vral
+A67 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Drauh
+A68 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nie
+A69 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Jizo
+A70 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Demonix
+A71 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Syl Ancalen
+A72 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ose
+A73 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Lyhe
+A74 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Umlelone
+A75 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Hurtlepool
+A76 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Bredon
+A77 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Tergaron
+A78 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Mistadia
+A79 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Warlington
+A80 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Wimborne
+A81 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Hirane
+A82 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# The Trident
+A83 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Mindbreaker
+A84 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Azmar
+A85 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Marsh Till
+A86 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Marsh Lock
+A87 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Falkirk
+A88 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Little Ivy
+A89 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Damerel
+A90 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Stonethrower
+A91 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nuxvar
+A92 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Astrakane
+A93 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Skullsmasher
+A94 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Braveheart
+A95 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Alora
+A96 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Onyfe
+A97 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Faenalond
+A98 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ylranhone
+A99 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nelfe
+B01 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Milfebelle
+B02 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Black Sands
+B03 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Chulaguutia
+B04 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Thondo
+B05 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Bundalteria
+B06 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Feldur
+B07 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Van Lodir
+B08 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Khag
+B09 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Balgon
+B10 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Mern
+B11 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Thurum
+B12 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Dugh
+B13 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Banam
+B14 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Danam
+B15 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Dolfal
+B16 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Dogh
+B17 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kamaruhm
+B18 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kuldihr
+B19 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Bhogh
+B20 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ruhm
+B21 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Mur Molduhr
+B22 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ven Burim
+B23 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kon Daruhr
+B24 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Cyholia
+B25 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Eena
+B26 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Elunore
+B27 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Themar
+B28 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Alari
+B29 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Anabelle
+B30 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Asflenor
+B31 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}

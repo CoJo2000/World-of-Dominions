@@ -1,5 +1,5 @@
-owner = USA
-controller = USA
+owner = A34
+controller = A34
 capital = "pracao"
 is_city = yes
 culture = american
@@ -9,4 +9,4 @@ base_tax = 3
 base_production = 3
 base_manpower = 4
 trade_goods = grain
-add_core = USA
+add_core = A34

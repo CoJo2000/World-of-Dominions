@@ -243,7 +243,12 @@ categories =  {
 		supply_limit = 6	
 	}	
 }
-	
+##################################################################
+### Color Hold
+### Coastal Desert	203 191 103	
+### Grassland		86 124 27
+### Light Grassland	200 214 107
+### 
 ##################################################################
 ### Graphical terrain
 ###	type	=	refers to the terrain defined above, "terrain category"'s 

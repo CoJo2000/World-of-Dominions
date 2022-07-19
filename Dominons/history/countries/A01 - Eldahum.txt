@@ -1,0 +1,29 @@
+government = monarchy
+add_government_reform = feudalism_reform
+mercantilism = 25
+technology_group = western
+primary_culture = american
+religion = catholic
+capital = 2001
+
+1444.11.10 = {
+	monarch = {
+		name = "Bjorn III"
+		dynasty = "Alvyn"
+		birth_date = 1388.12.3
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.10 = {
+	heir = {
+		name = "Isabelle I"
+		dynasty = "de Alvyn"
+		birth_date = 1421.7.4
+		claim = 65
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
