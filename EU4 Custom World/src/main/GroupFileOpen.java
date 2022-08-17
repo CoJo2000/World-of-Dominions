@@ -5,6 +5,25 @@ import java.io.*;
 import java.util.Random;
 
 public class GroupFileOpen {
+	/*
+	 * TODO List
+	 * Dev area: Dev command to randomly generate development of a given area, with given average for area (possible avg range)
+	 * Culture creation: Command to make a culture in the necessary files 
+	 * Culture change: Command to make a province a culture, same as core/multi-core
+	 * Religion creation:Command to make a religion in the necessary files
+	 * Religion change: Command to make a province a religion, same as core/multi-core
+	 * Linux Style CMD: Change the core/dev/culture/religion/area/region commands to accept "-" commands to streamline code
+	 * 		Ex:
+	 * 		Core 2001 A01 -l | -l to indicate list coming, keep out of main call to streamline
+	 * 			2002 2003 2004 -l
+	 * 			2005 2006 | lack of -l, switch command
+	 * 		area aaaa and pra aaaa vs area aaaa -o and area aaaa -p | Viseversa with Region
+	 * 
+	 *   4781 4914 4768 14463
+	 *  - 950  950 2100  4000
+	 *  =3931 3964 2668 10463
+	 */
+	
 	// File Location Strings
 	final static String modLocal	 = "C:\\Users\\Colin\\Documents\\Paradox Interactive\\Europa Universalis IV\\mod\\Dominons";
 	final static String provLocal 	 = modLocal + "\\history\\provinces\\";
@@ -18,17 +37,16 @@ public class GroupFileOpen {
 	
 	/*
 	 * Main
-	 * core 2001 A01
-	 * 2002 2003
-	 * area aaaa
-	 * region aaaa
+	 * core 2001 A01 | 2002 2003
+	 * area aaaa | region aaaa
 	 * tag A01 Eldahum 2001
-	 * dev 2001 3 5 4
+	 * dev 2001 3 5 4 | deva aaaa 20 5
 	 * tg 2001 grain
-	 * pra aaaa
-	 * prr aaaa
+	 * pra aaaa | prr aaaa
+	 * cul 12 elder | rel 12 cult
 	 */
 	public static void main(String[] args) throws IOException {
+		devCount();
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		System.out.print("CMD: ");
 		String input = reader.readLine();
@@ -73,6 +91,21 @@ public class GroupFileOpen {
 					dev(inputs[1], inputs[2], inputs[3], inputs[4]);
 					break;
 				}
+				// DevA CMD: Sets the given area with random development of a given average value
+				case "deva": {
+					// deva area average range : deva aaaa 20 1 | Provinces can be 19 20 21 dev total
+					System.out.println("CMD: DEV");
+					deva(inputs[1], inputs[2], inputs[3]);
+					break;
+				}
+				// DevR CMD: Sets the given region with random development of a given average value
+				case "devr": {
+					// deva area average range : deva aaaa 20 1 | Provinces can be 19 20 21 dev total
+					System.out.println("CMD: DEV");
+					devr(inputs[1], inputs[2], inputs[3]);
+					break;
+				}
+				
 				// Tg CMD: Sets the given province with the given tradegood
 				case "tg": {
 					// tg prov good : tg 2002 grain
@@ -96,6 +129,37 @@ public class GroupFileOpen {
 					System.out.print("CMD: PROV = ");
 					printRegion(inputs[1]);
 					System.out.println();
+					break;
+				}
+				// Cul CMD: Sets the given provinces with the given culture
+				case "cul": {
+					// cul prov culture : cul 2002 Elder
+					System.out.println("CMD: CUL prov");
+					if (inputs.length > 3) {
+						for (int x=3; x<inputs.length; x++) {
+							culture(inputs[x],inputs[2]);
+						}
+					}
+					culture(inputs[1],inputs[2]);
+					break;
+				}
+				// Rel CMD: Sets the given provinces with the given religion
+				case "rel": {
+					// cul prov religion : cul 2002 cult_of_elder
+					System.out.println("CMD: REL prov");
+					if (inputs.length > 3) {
+						for (int x=3; x<inputs.length; x++) {
+							religion(inputs[x],inputs[2]);
+						}
+					}
+					religion(inputs[1],inputs[2]);
+					break;
+				}
+				// NationSet CMD: Goes through each nation and sets their culture and religion to that of their capital's
+				case "nationSet": {
+					// nationSet
+					System.out.println("CMD: NATIONSET");
+					nationSet();
 					break;
 				}
 				default: {
@@ -262,6 +326,59 @@ public class GroupFileOpen {
 		replaceInFile(provLocal + prov + " - pr" + name + ".txt", "base_production = .+", ("base_production = " + p));
 		replaceInFile(provLocal + prov + " - pr" + name + ".txt", "base_manpower = .+", ("base_manpower = " + m));
 	}
+	public static void deva(String area, String a, String r) throws IOException {
+		/**
+		 * Replaces the Development of an area with random range of development
+		 * @param area String representing the Area
+		 * @param a String representing the average of the province
+		 * @param r String representing the range of value off the average, add and subtract
+		 * @throws IOException
+		 */
+		int average = Integer.parseInt(a);
+		int range = Integer.parseInt(r);
+		int avg = 0;
+		String provs[] = getArea(area);
+		Random rand = new Random();
+		
+		for (String prov : provs) {
+			int t = (int) Math.round(average * 0.37) + 1;
+			int p = (int) Math.round(average * 0.37) + 1;
+			int m = (int) Math.round(average * 0.25);
+			
+			for ( int x=range; x>0; x--) {
+				int c = rand.nextInt(2);
+				if (c==0) {
+					t = t + rand.nextInt(3)-2;
+				}
+				if (c==1) {
+					p = p + rand.nextInt(3)-2;
+				}
+				if (c==2) {
+					m = m + rand.nextInt(3)-2;
+				}
+			}
+			if (t<=1) { t = 1; }
+			if (p<=1) { p = 1; }
+			if (m<=1) { m = 1; }
+			avg += t+p+m;
+			System.out.println(prov + ": " + t + " " + p + " "  + m + " | " + (t+p+m));
+			dev(prov, String.valueOf(t), String.valueOf(p), String.valueOf(p));
+		}
+		System.out.println("Avg: " + avg/provs.length);
+	}
+	public static void devr(String region, String a, String r) throws IOException {
+		/**
+		 * Replaces the Development of a region with random range of development
+		 * @param region String representing the Region
+		 * @param a String representing the average of the provinces
+		 * @param r String Representing the range of value off the average, add and subtract
+		 * @throws IOException
+		 */
+		String areas[] = getRegion(region);
+		for (String area : areas) {
+			deva(area, a, r);
+		}
+	}
 	public static void tradegood(String prov, String good) {
 		/**
 		 * Replaces the Tradegood of a given province with a given good
@@ -303,6 +420,59 @@ public class GroupFileOpen {
 			printArea(area);
 		}
 	}
+	public static void culture(String prov, String culture) throws IOException {
+		/**
+		 * Replaces the Culture of a province with the new culture
+		 * @param prov String representing the Province ID
+		 * @param culture String representing the new culture
+		 * @throws IOException
+		 */
+		replaceInFile(provLocal + prov + " - pr" + nameReverse(prov) + ".txt", "culture = .+", ("culture = " + culture));
+	}
+	public static void religion(String prov, String religion) throws IOException {
+		/**
+		 * Replaces the Religion of a province with the new religion
+		 * @param prov String representing the Province ID
+		 * @param religion String representing the new religion
+		 * @throws IOException
+		 */
+		replaceInFile(provLocal + prov + " - pr" + nameReverse(prov) + ".txt", "religion = .+", ("religion = " + religion));
+	}
+	public static void nationSet() throws IOException {
+		/**
+		 * goes through each nation and changes their main culture and religion to that of the capital's
+		 * @throws IOException
+		 */
+		String[] files = new File(countryLocal).list();
+		for (int x= 0; x<files.length-3; x++) {
+			File file = new File(countryLocal + files[x]);
+			BufferedReader reader = new BufferedReader(new FileReader(file));
+			String line = reader.readLine();
+			while (line != null && !line.contains("capital = ")) {
+				line = reader.readLine();
+			}
+			reader.close();
+			line = line.substring(10);
+			
+			file = new File(provLocal + line + " - pr" + nameReverse(line) + ".txt");
+			reader = new BufferedReader(new FileReader(file));
+			line = reader.readLine();
+			String cul = "";
+			String rel = "";
+			while (line != null) {
+				if (line.contains("religion = ")) {
+					rel = line.substring(11);
+				}
+				if (line.contains("culture = ")) {
+					cul = line.substring(10);
+				}
+				
+				line = reader.readLine();
+			}
+			replaceInFile(countryLocal + files[x], "religion = .+", "religion = " + rel);
+			replaceInFile(countryLocal + files[x], "culture = .+", "culture = " + cul);
+		}
+	}
 	
 	// Utility Functions
 	public static String[] getArea(String area) throws IOException {
@@ -315,7 +485,7 @@ public class GroupFileOpen {
 		File file = new File(areaLocal + "area.txt");
 		BufferedReader areas = new BufferedReader(new FileReader(file));
 		String line = areas.readLine();
-		while (line != null && !line.contains(area)) {
+		while (line != null && !line.contains(area + "_area")) {
 			line = areas.readLine();
 		}
 		line = areas.readLine().strip();
@@ -335,7 +505,7 @@ public class GroupFileOpen {
 		BufferedReader regions = new BufferedReader(new FileReader(file));
 		// Iterates through region.txt file to find the desired region
 		String line = regions.readLine();
-		while (line != null && !line.contains(region)) {
+		while (line != null && !line.contains(region + "_region")) {
 			line = regions.readLine();
 		}
 		regions.readLine();
@@ -463,5 +633,63 @@ public class GroupFileOpen {
 			a++;
 		}
 		return "" + a + b + c + d;
+	}
+
+	// Other Fuctions
+	public static void devCount() throws IOException {
+		File file = new File(areaLocal + "continent.txt");
+		BufferedReader cont = new BufferedReader(new FileReader(file));
+		String line = cont.readLine();
+		int t = 0;
+		int p = 0;
+		int m = 0;
+		while(line != null) {
+			if (line.contains("_continent = {")) {
+				System.out.print(line.substring(0,4) + ": ");
+				t=0; p=0; m=0;
+				line = cont.readLine();
+				continue;
+			}
+			String provs[] = line.strip().split(" ");
+			if (line.contains("}") && (t+p+m != 0)) {
+				System.out.println(t + " " + p + " " + m + " " + (t+p+m));
+				line = cont.readLine();
+				continue;
+			}
+			
+			for (String prov : provs ) {
+				try {
+					file = new File(provLocal + prov + " - pr" + nameReverse(prov) + ".txt");
+				} catch(NumberFormatException e) {
+					break;
+				}
+				
+				BufferedReader pr = null;
+				try {
+					pr = new BufferedReader(new FileReader(file));
+				} catch (FileNotFoundException e) {
+					continue;
+				}
+				pr.readLine(); pr.readLine(); pr.readLine(); pr.readLine(); pr.readLine(); 
+				pr.readLine(); pr.readLine();
+				
+				String curLine = pr.readLine(); if (curLine == null) { continue; }
+				curLine = curLine.replace("base_tax = ", " ");
+				t += Integer.parseInt(curLine.strip());
+				
+				curLine = pr.readLine();
+				curLine = curLine.replace("base_production = ", " ");
+				p += Integer.parseInt(curLine.strip());
+				
+				curLine = pr.readLine();
+				curLine = curLine.replace("base_manpower = ", " ");
+				m += Integer.parseInt(curLine.strip());
+				
+				pr.close();
+			}
+			
+			line = cont.readLine();
+		}
+		cont.close();
 	}
 }

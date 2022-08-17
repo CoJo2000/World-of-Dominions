@@ -1,4 +1,3 @@
-USA = "countries/USA.txt"
 A01 = "countries/Eldahum.txt"
 A02 = "countries/Caelora.txt"
 A03 = "countries/Janora.txt"

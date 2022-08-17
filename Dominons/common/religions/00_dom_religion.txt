@@ -1,0 +1,183 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+titian_dwarven = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	flamekin = {
+		color = { 244 157 63 }
+		icon = 1
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = flamekin
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+titian_vampire = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	blood = {
+		color = { 53 12 44 }
+		icon = 2
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = blood
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+titian_goliath = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	shamans = {
+		color = { 159 168 165 }
+		icon = 3
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = shamans
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+titian_orc = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	rage = {
+		color = { 82 135 18 }
+		icon = 4
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+titian_pantheons = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	titians = {
+		color = { \17 135 129 }
+		icon = 5
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}

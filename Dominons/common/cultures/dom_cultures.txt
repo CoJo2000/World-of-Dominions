@@ -1,0 +1,1119 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+eldahuman = {
+	graphical_culture = westerngfx
+	
+	deorum = {
+		primary = A01
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	siorum = {
+		primary = A02
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	meorum = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	litrum = {
+		primary = A04
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	dibrum = {
+		primary = A07
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	rucade = {
+		primary = A09
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	pruna = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	cacade = {
+		primary = A08
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	gacade = {
+		primary = A25 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	barcade = {
+		primary = A11
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	nicae = {
+		primary = A10
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+titian_vampiric = {
+	graphical_culture = westerngfx
+	
+	phantomic = {
+		primary = A21
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	hellic = {
+		primary = A19
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	ghoulish = {
+		primary = A17
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	deamonic = {
+		primary = A71
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+kupenic = {
+	graphical_culture = westerngfx
+	
+	nanunian = {
+		primary = A35
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	voshean = {
+		primary = A41
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	thornean = {
+		primary = A45
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	vegosh = {
+		primary = A38
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	darean = {
+		primary = A42
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	biric = {
+		primary = A46 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	malean = {
+		primary = 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+nococ = {
+	graphical_culture = westerngfx
+	
+	why = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	nornian = {
+		primary = A50
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	tebean = {
+		primary = A31
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	cantlapiean = {
+		primary = A35
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	endarean = {
+		primary = A48
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+permidas = {
+	graphical_culture = westerngfx
+	
+	brasderian = {
+		primary = A55
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	beckish = {
+		primary = A56
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	bonan = {
+		primary = A54
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	rossian = {
+		primary = A76
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	bredan = {
+		primary = A77
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+titian_sytr = {
+	graphical_culture = westerngfx
+	
+	zorish = {
+		primary = A61
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	raic = {
+		primary = A68
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	odic = {
+		primary = A66
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+amara = {
+	graphical_culture = westerngfx
+	
+	osean = {
+		primary = A73
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	ancan = {
+		primary = A72
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	umlic = {
+		primary = A75
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	loshic = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+lyariic = {
+	graphical_culture = westerngfx
+	
+	belleic = {
+		primary = B30
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	elunic = {
+		primary = B27
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+chulagic = {
+	graphical_culture = westerngfx
+	
+	chula = {
+		primary = B04
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	zilug = {
+		primary = B04
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	ougha = {
+		primary = B04
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	argug = {
+		primary = B04
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+stadish = {
+	graphical_culture = westerngfx
+	
+	mistadish = {
+		primary = A79
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	tonic = {
+		primary = A80
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	zalish = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	tillic = {
+		primary = A86
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	lanic = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+azmarian = {
+	graphical_culture = westerngfx
+	
+	azmari = {
+		primary = A85
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	astran = {
+		primary = A93
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	dentic = {
+		primary = A93
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+thandic = {
+	graphical_culture = westerngfx
+	
+	thonish = {
+		primary = B36 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	ferrean = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	jukic = {
+		primary = B03 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	wadean = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	zorean = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	uptean = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+ruvaen = {
+	graphical_culture = westerngfx
+	
+	milic = {
+		primary = B02 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	nelfic = {
+		primary = B01 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	mauish = {
+		primary = B01 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	sweenic = {
+		primary = A98 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+dameria = {
+	graphical_culture = westerngfx
+	
+	wimbornish = {
+		primary = A81 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	lieic = {
+		primary = A90 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+jat = {
+	graphical_culture = westerngfx
+	
+	rumish = {
+		primary = B21 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	hurean = {
+		primary = B12 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	muric = {
+		primary = B07  
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	dugrean = {
+		primary = B13 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+dalteric = {
+	graphical_culture = westerngfx
+	
+	bundaltic = {
+		primary = B06 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	felderic = {
+		primary = B07  
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	balgonic = {
+		primary = B10 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	lodic = {
+		primary = B06 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	kamaric = {
+		primary = B18 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+titian_goliath = {
+	graphical_culture = westerngfx
+	
+	clanic = {
+		primary = B06 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	stones = {
+		primary = A94 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	breakers = {
+		primary = A84 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	rocks = {
+		primary = B06 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	mountains = {
+		primary = B29 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	skys = {
+		primary = A30 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+	berserks = {
+		primary = B06 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
