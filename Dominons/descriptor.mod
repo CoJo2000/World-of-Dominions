@@ -3,6 +3,7 @@ tags={
 	"Map"
 	"Alternative History"
 }
+
 replace_path="history/diplomacy"
 replace_path="history/countries"
 replace_path="history/wars"
@@ -17,6 +18,7 @@ replace_path="common/bookmarks"
 replace_path="common/disasters"
 replace_path="common/province_names"
 replace_path="common/country_tags"
+
 
 name="The World of Dominons"
 supported_version="1.33.3"

@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = B43
+controller = B43
 capital = "prahlv"
 is_city = yes
 culture = american
 religion = catholic
 hre = no
-base_tax = 3
+base_tax = 4
 base_production = 3
-base_manpower = 4
+base_manpower = 3
 trade_goods = grain
-add_core = USA
+add_core = B43
