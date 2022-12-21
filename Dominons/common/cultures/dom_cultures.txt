@@ -1,12 +1,3 @@
-# Do not change tags in here without changing every other reference to them.
-# If adding new groups or cultures, make sure they are unique.
-#
-# Union tags do not suffer from the 'same_culture_group' tax penalty.
-# Primary tags are the first choice for rebel factions seeking cultural independence.
-#
-# graphical_culture = westerngfx
-# second_graphical_culture = muslimgfx (fallback if the first does not exist)
-
 eldahuman = {
 	graphical_culture = westerngfx
 	
@@ -1117,3 +1108,195 @@ titian_goliath = {
 		}
 	}
 }
+
+draconese = {
+	graphical_culture = westerngfx
+	qilong = {
+		primary = B38 
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+plainsborne = {
+	graphical_culture = westerngfx
+	dwadri = {
+		primary = B57
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+highlandborne = {
+	graphical_culture = westerngfx
+	jarlu = {
+		primary = B66
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+kobondic = {
+	graphical_culture = westerngfx
+	vigic = {
+		primary = B70
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+zerni = {
+	graphical_culture = westerngfx
+	fessian = {
+		primary = B89
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+tilva = {
+	graphical_culture = westerngfx
+	upli = {
+		primary = B82
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+naka = {
+	graphical_culture = westerngfx
+	ekko = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+soppo = {
+	graphical_culture = westerngfx
+	agra = {
+	primary = B84
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+rass = {
+	graphical_culture = westerngfx
+	kurn = {
+	primary = G06
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+tru = {
+	graphical_culture = westerngfx
+	nulthat = {
+	primary = B93
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+veshi = {
+	graphical_culture = westerngfx
+	gurk = {
+	primary = B95
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+kuath = {
+	graphical_culture = westerngfx
+	dargu = {
+	primary = G01
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
