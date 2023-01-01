@@ -1961,7 +1961,74 @@ rass = {
 tru = {
 	graphical_culture = westerngfx
 	nulthat = {
-	primary = B93
+		primary = B93
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	felthat = {
+		primary = B94
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	blithat = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ushthat = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	thithat = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	shothat = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	gerthat = {
 		male_names = {
 		
 		}
@@ -1977,7 +2044,76 @@ tru = {
 veshi = {
 	graphical_culture = westerngfx
 	gurk = {
-	primary = B95
+		primary = B95
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	lird = {
+		primary = B97
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	icoch = {
+		primary = B98
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	naethuv = {
+		primary = B96
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	vurte = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	toshot = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	lodeth = {
 		male_names = {
 		
 		}
@@ -1993,7 +2129,85 @@ veshi = {
 kuath = {
 	graphical_culture = westerngfx
 	dargu = {
-	primary = G01
+		primary = G01
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	lasrgu = {
+		primary = G02
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	saggur = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	atert = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	elthaark = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	nat = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	lesk = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	birirt = {
 		male_names = {
 		
 		}
@@ -2009,7 +2223,101 @@ kuath = {
 conash = {
 	graphical_culture = westerngfx
 	conic = {
-	primary = G12
+		primary = G12
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	doctinan = {
+		primary = G36
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	xilnah = {
+		primary = G37
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	valralean = {
+		primary = G41
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	cynic = {
+		primary = G15
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	zinic = {
+		primary = G16
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	zylrel = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	iarrorean = {
+		primary = G39
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	daeric = {
 		male_names = {
 		
 		}
@@ -2025,7 +2333,55 @@ conash = {
 eushan = {
 	graphical_culture = westerngfx
 	ruvan = {
-	primary = G13
+		primary = G13
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ufel = {
+		primary = G59
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	caedician = {
+		primary = G64
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	vevro = {
+		primary = G62
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	cethina = {
+		primary = G60
 		male_names = {
 		
 		}
@@ -2041,7 +2397,102 @@ eushan = {
 thrudgic = {
 	graphical_culture = westerngfx
 	alaric = {
-	primary = G17
+		primary = G17
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ebonic = {
+		primary = G18
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ianlysic = {
+		primary = G19
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	rarlic = {
+		primary = G20
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ginic = {
+		primary = G55
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	solros = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	byllelic = {
+		primary = G51
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	iric = {
+		primary = G50
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	reddille = {
+		primary = G45
 		male_names = {
 		
 		}
@@ -2057,7 +2508,66 @@ thrudgic = {
 jola = {
 	graphical_culture = westerngfx
 	bina = {
-	primary = G21
+		primary = G21
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	felsa = {
+		primary = G72
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ruea = {
+		primary = G22
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	lina = {
+		primary = G69
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	vera = {
+		primary = G70
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	mera = {
 		male_names = {
 		
 		}
@@ -2070,10 +2580,46 @@ jola = {
 	}
 }
 
-vahan = {
+vashan = {
 	graphical_culture = westerngfx
 	van = {
-	primary = G14
+		primary = G14
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	romon = {
+		primary = G67
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	dolo = {
+		primary = G66
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	caesonian = {
+		primary = G65
 		male_names = {
 		
 		}
