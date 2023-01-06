@@ -21,8 +21,8 @@ public class GroupFileOpen {
 	 */
 	
 	// File Location Strings
-	final static String modLocal	 = "C:\\Users\\johns\\OneDrive\\Documents\\Paradox Interactive\\"
-									 + "Europa Universalis IV\\mod\\Dominons";
+	final static String modLocal	 = "C:\\Users\\Colin\\Documents\\Paradox Interactive"
+									 + "\\Europa Universalis IV\\mod\\Dominons";
 	final static String provLocal 	 = modLocal + "\\history\\provinces\\";
 	final static String countryLocal = modLocal + "\\history\\countries\\";
 	final static String areaLocal 	 = modLocal + "\\map\\";
@@ -44,6 +44,7 @@ public class GroupFileOpen {
 	 */
 	public static void main(String[] args) throws IOException {
 		//tradeNodeCount();
+		//devCount();
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		System.out.print("CMD: ");
 		String input = reader.readLine();
@@ -86,6 +87,11 @@ public class GroupFileOpen {
 					// dev prov tax production manpower : dev 2001 5 5 5
 					System.out.println("CMD: DEV " + (Integer.parseInt(inputs[2]) + Integer.parseInt(inputs[3]) + Integer.parseInt(inputs[4])));
 					dev(inputs[1], inputs[2], inputs[3], inputs[4]);
+					if (inputs.length > 5) {
+						for (int x=5; x<inputs.length; x++) {
+							dev(inputs[x], inputs[2], inputs[3], inputs[4]);
+						}
+					}
 					break;
 				}
 				// DevA CMD: Sets the given area with random development of a given average value
@@ -93,6 +99,11 @@ public class GroupFileOpen {
 					// deva area average range : deva aaaa 20 1 | Provinces can be 19 20 21 dev total
 					System.out.println("CMD: DEV");
 					deva(inputs[1], inputs[2], inputs[3]);
+					if (inputs.length > 4) {
+						for (int x=4; x<inputs.length; x++) {
+							deva(inputs[x], inputs[2], inputs[3]);
+						}
+					}
 					break;
 				}
 				// DevR CMD: Sets the given region with random development of a given average value
