@@ -1,5 +1,5 @@
-owner = USA
-controller = USA
+owner = G76
+controller = G76
 capital = "praffa"
 is_city = yes
 culture = american
@@ -9,4 +9,4 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = USA
+add_core = G76

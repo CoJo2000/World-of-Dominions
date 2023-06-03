@@ -1,4 +1,4 @@
-version="0.0.1"
+version="0.0.2"
 tags={
 	"Map"
 	"Alternative History"
@@ -20,5 +20,5 @@ replace_path="common/province_names"
 replace_path="common/country_tags"
 
 
-name="The World of Dominons"
-supported_version="1.33.3"
+name="The World of Dominions"
+supported_version="1.34.5"

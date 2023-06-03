@@ -5,6 +5,7 @@ technology_group = western
 primary_culture = ebonic
 religion = osiianity
 capital = 3006
+elector = yes
 1444.11.10 = {
 	monarch = {
 		name = "Temp I"

@@ -10,3 +10,4 @@ base_production = 3
 base_manpower = 3
 trade_goods = grain
 add_core = G42
+hre = yes
