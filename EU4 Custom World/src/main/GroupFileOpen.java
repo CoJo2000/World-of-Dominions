@@ -7,7 +7,6 @@ import java.util.Random;
 public class GroupFileOpen {
 	/*
 	 * TODO List
-	 * Dev area: Dev command to randomly generate development of a given area, with given average for area (possible avg range)
 	 * Culture creation: Command to make a culture in the necessary files 
 	 * Culture change: Command to make a province a culture, same as core/multi-core
 	 * Religion creation:Command to make a religion in the necessary files
@@ -21,8 +20,8 @@ public class GroupFileOpen {
 	 */
 	
 	// File Location Strings
-	final static String modLocal	 = "C:\\Users\\Colin\\Documents\\Paradox Interactive"
-									 + "\\Europa Universalis IV\\mod\\Dominons";
+	final static String modLocal	 = "C:\\Users\\Colin\\Documents\\Paradox Interactive\\Europa Universalis IV"
+										+ "\\mod\\dominion";
 	final static String provLocal 	 = modLocal + "\\history\\provinces\\";
 	final static String countryLocal = modLocal + "\\history\\countries\\";
 	final static String areaLocal 	 = modLocal + "\\map\\";
@@ -41,6 +40,7 @@ public class GroupFileOpen {
 	 * tg 2001 grain
 	 * pra aaaa | prr aaaa
 	 * cul 12 elder | rel 12 cult
+	 * hre 2012
 	 */
 	public static void main(String[] args) throws IOException {
 		//tradeNodeCount();
@@ -108,9 +108,14 @@ public class GroupFileOpen {
 				}
 				// DevR CMD: Sets the given region with random development of a given average value
 				case "devr": {
-					// deva area average range : deva aaaa 20 1 | Provinces can be 19 20 21 dev total
+					// devr region average range : deva aaaa 20 1 | Provinces can be 19 20 21 dev total
 					System.out.println("CMD: DEV");
 					devr(inputs[1], inputs[2], inputs[3]);
+					if (inputs.length > 4) {
+						for (int x=4; x<inputs.length; x++) {
+							devr(inputs[x], inputs[2], inputs[3]);
+						}
+					}
 					break;
 				}
 				
@@ -161,6 +166,18 @@ public class GroupFileOpen {
 						}
 					}
 					religion(inputs[1],inputs[2]);
+					break;
+				}
+				// HRE CMD: sets the given provinces to be in the HRE
+				case "hre": {
+					// hre prov : hre 2002
+					System.out.println("CMD: HRE prov");
+					if (inputs.length > 2) {
+						for (int x=2; x<inputs.length; x++) {
+							hre(inputs[x]);
+						}
+					}
+					hre(inputs[1]);
 					break;
 				}
 				// NationSet CMD: Goes through each nation and sets their culture and religion to that of their capital's
@@ -446,7 +463,14 @@ public class GroupFileOpen {
 		 */
 		replaceInFile(provLocal + prov + " - pr" + nameReverse(prov) + ".txt", "religion = .+", ("religion = " + religion));
 	}
-	
+	public static void hre(String prov) throws IOException {
+		/**
+		 * Adds the given province to the HRE
+		 * @param prov String representing the Province ID
+		 * @throws IOException
+		 */
+		addToFile(provLocal + prov + " - pr" + nameReverse(prov) + ".txt", "hre = yes");
+	}
 	// Utility Functions
 	public static String[] getArea(String area) throws IOException {
 		/**
@@ -608,7 +632,7 @@ public class GroupFileOpen {
 		return "" + a + b + c + d;
 	}
 
-	// Other Fuctions
+	// Other Functions
 	public static void devCount() throws IOException {
 		File file = new File(areaLocal + "continent.txt");
 		BufferedReader cont = new BufferedReader(new FileReader(file));
