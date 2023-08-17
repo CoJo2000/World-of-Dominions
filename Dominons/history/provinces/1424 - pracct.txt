@@ -1,12 +1,12 @@
-owner = G78
-controller = G78
+owner = H33
+controller = H33
 capital = "pracct"
 is_city = yes
-culture = american
+culture = seheon
 religion = catholic
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = G78
+add_core = H33

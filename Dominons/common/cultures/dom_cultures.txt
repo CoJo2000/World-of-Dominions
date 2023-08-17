@@ -2631,3 +2631,212 @@ vashan = {
 		}
 	}
 }
+
+aquan = {
+	graphical_culture = westerngfx
+	liahan = {
+		primary = G76
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	yoran = {
+		primary = G80
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	netan = {
+		primary = G81
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	kihan = {
+		primary = G82
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+terran = {
+	graphical_culture = westerngfx
+	kinoan = {
+		primary = G77
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	imano = {
+		primary = G83
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	inamo = {
+		primary = G84
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	nilion = {
+		primary = G85
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+}
+
+ignan = {
+	graphical_culture = westerngfx
+	ainoan = {
+		primary = G78
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	lekoan = {
+		primary = G86
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	cheireon = {
+		primary = G87
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	seheon = {
+		primary = G88
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+auran = {
+	graphical_culture = westerngfx
+	surrian = {
+		primary = G79
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	rahdion = {
+		primary = G89
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	mungian = {
+		primary = G90
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	jamian = {
+		primary = G91
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}

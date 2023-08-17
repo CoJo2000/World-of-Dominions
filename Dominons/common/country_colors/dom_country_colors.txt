@@ -1884,3 +1884,147 @@ H16 = {
 	color2={ 193  26  14 }
 	color3={ 193  26  14 }
 }
+# Dosim
+H17 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Zaoron
+H18 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Azasao
+H19 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Akah
+H20 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Mimona
+H21 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ainazo
+H22 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Zisu
+H23 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Taozu
+H24 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Choraik
+H25 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Yyalo
+H26 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Eiran
+H27 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Osora
+H28 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Penpa
+H29 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Lhamo
+H30 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Gonpo
+H31 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Dawa
+H32 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Yira
+H33 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Sueh
+H34 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Rohn
+H35 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Gyellol
+H36 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ngonga
+H37 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Yehio
+H38 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Lorin
+H39 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Rueia
+H40 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}

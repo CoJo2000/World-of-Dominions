@@ -1,12 +1,12 @@
-owner = G79
-controller = G79
+owner = H20
+controller = H20
 capital = "pradly"
 is_city = yes
-culture = american
+culture = rahdion
 religion = catholic
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = G79
+add_core = H20

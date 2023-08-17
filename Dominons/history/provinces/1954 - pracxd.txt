@@ -1,12 +1,12 @@
-owner = G78
-controller = G78
+owner = H36
+controller = H36
 capital = "pracxd"
 is_city = yes
-culture = american
+culture = ainoan
 religion = catholic
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = G78
+add_core = H36
