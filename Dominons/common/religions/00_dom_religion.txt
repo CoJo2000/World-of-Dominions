@@ -389,3 +389,242 @@ dragon_imperial = {
 		}
 	}
 }
+
+elemental_belief = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	yosumi = {
+		color = { 145 6 6 }
+		icon = 11
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+house_of_kha = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	akhet = {
+		color = { 246 185 63 }
+		icon = 12
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+	
+	behed = {
+		color = { 242 255 46 }
+		icon = 13
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+	
+	grh = {
+		color = { 228 105 11 }
+		icon = 14
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+tortle_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	chult = {
+		color = { 64 150 14 }
+		icon = 15
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+
+grung_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	nangnang = {
+		color = { 123 237 178 }
+		icon = 16
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+loxodon_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	loxism = {
+		color = { 138 130 125 }
+		icon = 17
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}

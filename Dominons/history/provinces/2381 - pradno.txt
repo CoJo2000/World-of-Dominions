@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = H73
+controller = H73
 capital = "pradno"
 is_city = yes
-culture = american
-religion = catholic
+culture = umir
+religion = chult
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = USA
+add_core = H73

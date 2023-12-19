@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = H43
+controller = H43
 capital = "prafll"
 is_city = yes
-culture = american
-religion = catholic
+culture = temetet
+religion = grh
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = USA
+add_core = H43

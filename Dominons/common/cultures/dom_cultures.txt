@@ -2840,3 +2840,840 @@ auran = {
 		}
 	}
 }
+
+kornandian = {
+	graphical_culture = westerngfx
+	kornan = {
+		primary = H41
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	daknen = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	rennen = {
+		primary = H47
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	tigtez = {
+		primary = H50
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	breptir = {
+		primary = H44
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	temetet = {
+		primary = H45
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+diodian = {
+	graphical_culture = westerngfx
+	diodan = {
+		primary = H56
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	darrone = {
+		primary = H57
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	orrea = {
+		primary = H54
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	kirnian = {
+		primary = H53
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	sanret = {
+		primary = H52
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+nabila = {
+	graphical_culture = westerngfx
+	nabla = {
+		primary = H68
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	bedan = {
+		primary = H69
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	nibal = {
+		primary = H63
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ansarian = {
+		primary = H64
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+tahadan = {
+	graphical_culture = westerngfx
+	tahan = {
+		primary = H62
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	rahan = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	nuhadan = {
+		primary = H60
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	lamyan = {
+		primary = H58
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	camenian = {
+		primary = H59
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+umiran = {
+	graphical_culture = westerngfx
+	umir = {
+		primary = H73
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	hiyan = {
+		primary = H72
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	karluada = {
+		primary = H74
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	idean = {
+		primary = H76
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	fadean = {
+		primary = H77
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	buozan = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	buozan = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	pluonun = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	kinloan = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	dilan = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	bipian = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+kuorlott = {
+	graphical_culture = westerngfx
+	kuor = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	aziz = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	brahima = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	hadiran = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	fouadian = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ariban = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ouardaran = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	jumanan = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+nihpic = {
+	graphical_culture = westerngfx
+	nihp = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	lunp = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	abph = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	oobh = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	lehp = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ebrh = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+darpic = {
+	graphical_culture = westerngfx
+	darp = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	nolp = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ibdp = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	eenp = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	debp = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	duhp = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+zeloozh = {
+	graphical_culture = westerngfx
+	zel = {
+		primary = H96
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	omic = {
+		primary = H94
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	varunic = {
+		primary = I01
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	tavadic = {
+		primary = H97
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	parekic = {
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+vrindulic = {
+	graphical_culture = westerngfx
+	vrinlic = {
+		primary = I09
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	ratih = {
+		primary = I08
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	mehrotih = {
+		primary = I07
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	sumatih = {
+		primary = I05
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	waazih = {
+		primary = I06
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+}
+
+hinjuno = {
+	graphical_culture = westerngfx
+	hina = {
+		primary = I11
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	varuna = {
+		primary = I13
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	sarita = {
+		primary = I12
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	haveela = {
+		primary = I10
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+}
+
+alumo = {
+	graphical_culture = westerngfx
+	alu = {
+		primary = I15
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	thalir = {
+		primary = I18
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	chinthuri = {
+		primary = I14
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+		dynasty_names = {
+		
+		}
+	}
+	
+}

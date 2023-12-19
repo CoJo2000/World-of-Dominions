@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = H55
+controller = H55
 capital = "praglm"
 is_city = yes
-culture = american
-religion = catholic
+culture = diodan
+religion = akhet
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = USA
+add_core = H55

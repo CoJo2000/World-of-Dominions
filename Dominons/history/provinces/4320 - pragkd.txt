@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = H53
+controller = H53
 capital = "pragkd"
 is_city = yes
-culture = american
-religion = catholic
+culture = orrea
+religion = behed
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = USA
+add_core = H53

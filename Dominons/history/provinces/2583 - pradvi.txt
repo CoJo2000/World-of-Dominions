@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = H67
+controller = H67
 capital = "pradvi"
 is_city = yes
-culture = american
-religion = catholic
+culture = nabla
+religion = grh
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = USA
+add_core = H67

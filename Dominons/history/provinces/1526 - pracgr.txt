@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = H77
+controller = H77
 capital = "pracgr"
 is_city = yes
-culture = american
-religion = catholic
+culture = fadean
+religion = chult
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = USA
+add_core = H77

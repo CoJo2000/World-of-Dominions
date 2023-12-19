@@ -1,0 +1,28 @@
+government = monarchy
+add_government_reform = feudalism_reform
+mercantilism = 25
+technology_group = western
+primary_culture = nabla
+religion = grh
+capital = 2552
+1444.11.10 = {
+	monarch = {
+		name = "Temp I"
+		dynasty = "Temp"
+		birth_date = 1388.12.3
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	heir = {
+		name = "Temp II"
+		dynasty = "Temp"
+		birth_date = 1421.7.4
+		claim = 65
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

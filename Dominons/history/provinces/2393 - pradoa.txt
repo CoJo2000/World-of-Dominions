@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = H74
+controller = H74
 capital = "pradoa"
 is_city = yes
-culture = american
-religion = catholic
+culture = karluada
+religion = chult
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = USA
+add_core = H74

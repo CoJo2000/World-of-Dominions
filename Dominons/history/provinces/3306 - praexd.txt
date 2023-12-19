@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = H62
+controller = H62
 capital = "praexd"
 is_city = yes
-culture = american
-religion = catholic
+culture = tahan
+religion = behed
 hre = no
 base_tax = 4
 base_production = 3
 base_manpower = 3
 trade_goods = grain
-add_core = USA
+add_core = H62

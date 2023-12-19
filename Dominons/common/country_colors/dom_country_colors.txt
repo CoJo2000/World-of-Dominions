@@ -2028,3 +2028,459 @@ H40 = {
 	color2={ 193  26  14 }
 	color3={ 193  26  14 }
 }
+# Ata Amunet
+H41 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Hapi-u
+H42 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Bektuernuro
+H43 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Maut-Ka
+H44 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ser-tet
+H45 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Aurera
+H46 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Renenet
+H47 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Meht Urt
+H48 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Eirene
+H49 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Khunsu
+H50 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Raziya
+H51 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Uart
+H52 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Mandisa
+H53 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Sapt
+H54 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Aahotep
+H55 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Monifa
+H56 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nebt Nehi
+H57 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Zidane
+H58 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Munira
+H59 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Lakia
+H60 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Farah
+H61 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Atalaya
+H62 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Imane
+H63 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Bendjedid
+H64 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Rima
+H65 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Wadoud
+H67 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Damali
+H68 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Sharifah
+H69 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Hanoune
+H70 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ashwaq
+H71 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Hiyam
+H72 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Yamina
+H73 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Anamar
+H74 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Amira
+H75 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Malika
+H76 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Fadel
+H77 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ijah
+H78 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Denok
+H79 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Icih
+H80 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Enok
+H81 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Asih
+H82 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Neny
+H83 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Irah
+H84 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Cemp
+H85 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Sapr
+H86 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Putr
+H87 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Tiah
+H88 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Tini
+H89 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Yuyu
+H90 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Aqan
+H91 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kama
+H92 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Uleh
+H93 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Lata
+H94 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Salani
+H95 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Sambridhi
+H96 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Tavadekar
+H97 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Manasa
+H98 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Akshara
+H99 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Saryu
+I01 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Tivra
+I02 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Chambeli
+I03 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Draupati
+I04 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Roodra
+I05 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Waazir
+I06 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Sahadeva
+I07 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Yogarsa
+I08 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Pranav
+I09 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Uvendra
+I10 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Dantu
+I11 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Hem
+I12 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Varun
+I13 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Krisha
+I14 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Yarlarasi
+I15 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Jeyanthi
+I16 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Mithur
+I17 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Shika
+I18 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
