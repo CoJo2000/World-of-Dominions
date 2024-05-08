@@ -600,8 +600,268 @@ loxodon_gods = {
 	flag_emblem_index_range = { 1 57 }
 	
 	loxism = {
-		color = { 138 130 125 }
+		color = { 202 202 202 }
 		icon = 17
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+fey_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	frozen_god = {
+		color = { 92 255 245 }
+		icon = 18
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+	
+	burned_god = {
+		color = { 229 19 19 }
+		icon = 19
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+	
+	entombed_god = {
+		color = { 130 130 130 }
+		icon = 20
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+	
+	suffocated_god = {
+		color = { 184 44 212 }
+		icon = 21
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+	
+	lost_god = {
+		color = { 212 212 44 }
+		icon = 22
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+flying_gods = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	skyfather = {
+		color = { 44 105 212 }
+		icon = 23
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+druid_beliefs = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	grove_way = {
+		color = { 23 189 56 }
+		icon = 24
+		allowed_conversion = {
+			
+		}
+		country = {
+			tolerance_own = 1
+			global_heathen_missionary_strength = 0.01
+		}
+		country_as_secondary = {
+			diplomatic_reputation = 1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = rage
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = {
+			
+		}
+	}
+}
+
+bugbear_pantheon = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+	
+	bugbear_gods = {
+		color = { 127 60 10 }
+		icon = 25
 		allowed_conversion = {
 			
 		}

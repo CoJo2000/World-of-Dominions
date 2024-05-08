@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = I66
+controller = I66
 capital = "pracky"
 is_city = yes
-culture = american
-religion = catholic
+culture = pukiq
+religion = burned_god
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = grain
-add_core = USA
+add_core = I66

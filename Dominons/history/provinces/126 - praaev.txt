@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = I26
+controller = I26
 capital = "praaev"
 is_city = yes
-culture = american
-religion = catholic
+culture = putyuk
+religion = frozen_god
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = grain
-add_core = USA
+add_core = I26

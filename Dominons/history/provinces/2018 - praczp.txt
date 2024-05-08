@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = I75
+controller = I75
 capital = "praczp"
 is_city = yes
-culture = american
-religion = catholic
+culture = sapata
+religion = suffocated_god
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = grain
-add_core = USA
+add_core = I75

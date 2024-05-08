@@ -2484,3 +2484,417 @@ I18 = {
 	color2={ 193  26  14 }
 	color3={ 193  26  14 }
 }
+# Amak
+I19 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Tatkret
+I20 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Noatak
+I21 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kukuq
+I22 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Makoktok
+I23 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Siku
+I24 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Akna
+I25 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kesuk
+I26 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Deniigi
+I27 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Fohyay
+I28 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Neimnem
+I29 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Sherthos
+I30 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Solnef
+I31 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ovah
+I32 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Omnufie
+I33 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Anthofa
+I34 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nierdoye
+I35 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Uc
+I36 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Saerc
+I37 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Krud
+I38 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Crurc
+I39 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Eccerk
+I40 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Calliark
+I41 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Steturr
+I42 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Tuggin
+I43 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Bravinn
+I44 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Stituk
+I45 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Zitar
+I46 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Gutamkk
+I47 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Zhotar
+I48 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Boldgrove
+I49 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Sheyvor
+I50 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Erii
+I51 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Faven
+I52 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Fallgrove
+I53 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Elmvale
+I54 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Xevaphant
+I55 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Riron
+I56 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Elacan
+I57 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Vabalar
+I58 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Iangeiros
+I59 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Wieragrove
+I60 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Qirona
+I61 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Yesragrove
+I62 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Androva
+I63 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Manirak
+I64 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Yakone
+I65 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Shila
+I66 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Asun
+I67 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Irdiv
+I68 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ethete
+I69 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Tolinka
+I70 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Hoa
+I71 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Keegsquaw
+I72 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kosa
+I73 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kimama
+I74 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kasa
+I75 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nascha
+I76 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Doli
+I77 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Pelipa
+I78 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Ilug
+I79 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Sakari
+I80 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Kinapak
+I81 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Iqniq
+I82 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Nertornatok
+I83 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Tawa
+I84 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Len
+I85 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Niich
+I86 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}
+# Tasunke
+I87 = {
+	color1={ 193  26  14 }
+	color2={ 193  26  14 }
+	color3={ 193  26  14 }
+}

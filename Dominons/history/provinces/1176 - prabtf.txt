@@ -1,12 +1,12 @@
-owner = USA
-controller = USA
+owner = I38
+controller = I38
 capital = "prabtf"
 is_city = yes
-culture = american
-religion = catholic
+culture = sirhus
+religion = skyfather
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 trade_goods = grain
-add_core = USA
+add_core = I38
